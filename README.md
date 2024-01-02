@@ -36,7 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-![Uploading Screenshot 2024-01-02 130713.png…]()
+![Screenshot 2024-01-02 130713](https://github.com/pavithran2046/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/139334834/f1c3713f-356e-4f55-b5ee-783c4f78403e)
+
 
 
 
